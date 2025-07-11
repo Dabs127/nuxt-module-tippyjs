@@ -13,7 +13,7 @@ Find and replace all on all files (CMD+SHIFT+F):
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
-[![Tippy]][tippy-src]
+[![Tippy][tippy-src]][tippy-href]
 
 
 This module is a Wrapper for Tippy.js for Nuxt with some extra functionalities and using nuxt tools to managed it better.
@@ -87,4 +87,5 @@ That's it! You can now use Tippy.js Module in your Nuxt app ✨
 [license-href]: https://npmjs.com/package/my-module
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
-[tippy-src]: https://atomiks.github.io/tippyjs/
+[tippy-src]: https://atomiks.github.io/tippyjs/static/logo-ebc385458e03fdb24af078536af88065.svg
+[tippy-href]: https://atomiks.github.io/tippyjs/
